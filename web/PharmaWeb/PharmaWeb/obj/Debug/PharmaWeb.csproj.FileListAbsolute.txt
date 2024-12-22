@@ -1,0 +1,37 @@
+E:\Developing Projects\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+E:\Developing Projects\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+E:\Developing Projects\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+E:\Developing Projects\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb
+E:\2020-2021 Projects\Projects\Android\BIMS\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+E:\2020-2021 Projects\Projects\Android\BIMS\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+E:\2020-2021 Projects\Projects\Android\BIMS\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+E:\2020-2021 Projects\Projects\Android\BIMS\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\MCA\Drug Store\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\MCA\Drug Store\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\MCA\Drug Store\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\MCA\Drug Store\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\BIHE\Pharmacy Aggregator\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\BIHE\Pharmacy Aggregator\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\BIHE\Pharmacy Aggregator\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.csprojResolveAssemblyReference.cache
+I:\2021-2022 Projects\Projects\Android\BIHE\Pharmacy Aggregator\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\BIHE\Pharmacy Aggregator\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.csprojResolveAssemblyReference.cache
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.csprojResolveAssemblyReference.cache
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+I:\2021-2022 Projects\Projects\Android\GMS\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb
+I:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+I:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+I:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.csprojResolveAssemblyReference.cache
+I:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+I:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb
+H:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.dll
+H:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\bin\PharmaWeb.pdb
+H:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.csprojResolveAssemblyReference.cache
+H:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.dll
+H:\2022-2023 Projects\Projects\Android\B S Channabasappa\Drug Store Locator App\Web\PharmaWeb\PharmaWeb\obj\Debug\PharmaWeb.pdb

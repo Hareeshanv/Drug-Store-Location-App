@@ -1,0 +1,124 @@
+/* CSS Document */
+
+body
+{
+    background-image: url('../images/gfbg.gif');
+    font-family: constantia;
+    font-size: 15px;
+    line-height: 150%;
+    letter-spacing: 2px;
+    font-weight: lighter;
+    color: #376013;
+}
+
+
+#wrapper
+{
+width:950px;
+height:auto;
+
+margin:auto;
+background-color:#ffffff;
+border:4px solid #FFFFFF;
+}
+
+
+
+.menu
+{
+    width: 100%;
+    background-color: #003300;
+}
+
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+   
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    text-align: center;
+    padding: 14px 26px;
+    text-decoration: none;
+	font-family:"Comic Sans MS";
+	font-size:13px;
+	color:#FFFFFF;
+	font-weight:bold;
+	border-right:2px dotted #FFFFFF;
+	letter-spacing:2px;
+}
+
+/* Change the link color to #111 (black) on hover */
+.menu li a:hover {
+    background-color:#003300;
+	color:#000000;
+}
+
+
+#slider
+{
+width:100%;
+height:auto;
+}
+
+
+#content
+{
+width:100%;
+padding:10px;
+}
+
+#content p
+{
+text-align:justify;
+}
+
+#content h1
+{
+border-bottom:1px dashed #333333;
+font-family:Lucida Handwriting;
+font-size:18px;
+letter-spacing:2px;
+font-weight:bold;
+}
+
+.footer
+{
+width:100%;
+
+height:50px;
+border: 2px solid #003300;
+margin:auto;
+background-color:#003300;
+padding:0px 3px;
+	font-family:"Comic Sans MS";
+	font-size:15px;
+	color:#ffffff;
+	font-weight:bold;
+
+text-align:center;
+}
+
+
+.ifooter
+{
+width:930px;
+
+height:50px;
+border: 2px solid #003300;
+margin:auto;
+background-color:#003300;
+padding:0px 10px;
+	font-family:"Comic Sans MS";
+	font-size:15px;
+	color:#ffffff;
+	font-weight:bold;
+text-align:center;
+}

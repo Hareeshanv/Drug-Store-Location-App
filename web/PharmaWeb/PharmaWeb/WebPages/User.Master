@@ -1,0 +1,78 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="User.master.cs" Inherits="PharmaWeb.WebPages.User" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+     <title>Pharma Dashboard</title>
+    <link href="../css/style.css" type="text/css" rel="stylesheet" />
+    <link href="../css/slider.css" type="text/css" rel="stylesheet" />
+    <link href="../css/Control.css" type="text/css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+      <div id="wrapper">
+<div class="menu">
+<ul>
+ <li><a href="Index.aspx">Home</a></li>
+  <li><a href="OurProfile.aspx">Our Profile</a></li>
+   <li><a href="ContactUs.aspx">Contact Us</a></li>
+  <li><a href="Login.aspx">Login</a></li>
+</ul>
+</div>
+
+<div id="slider">
+
+<!-- Slideshow container -->
+<div class="slideshow-container">
+
+  <!-- Full-width images with number and caption text -->
+  <div class="mySlides fade">
+    <img src="../images/slide_1.jpg" style="width:100%">
+    <div class="text">Pharma Dashboard</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../images/slide_2.jpg" style="width:100%">
+    <div class="text">Pharma Dashboard</div>
+  </div>
+
+  <div class="mySlides fade">
+    <img src="../images/slide_3.jpg" style="width:100%">
+    <div class="text">Pharma Dashboard</div>
+  </div>
+
+</div>
+<br />
+<!-- The dots/circles -->
+<div style="text-align:center">
+  <span class="dot" onclick="currentSlide(1)"></span> 
+  <span class="dot" onclick="currentSlide(2)"></span> 
+  <span class="dot" onclick="currentSlide(3)"></span> 
+</div>
+
+<script type="text/javascript" src="../js/slider.js"></script>
+</div>
+
+
+
+<div id="content">
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+ </div>
+
+ <div class="footer">
+&copy; Copy Rights Reserved.
+</div>
+</div>
+
+
+
+    </form>
+</body>
+</html>
+

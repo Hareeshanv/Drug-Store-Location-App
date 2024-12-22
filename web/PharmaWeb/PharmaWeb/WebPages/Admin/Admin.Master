@@ -1,0 +1,46 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Admin.master.cs" Inherits="PharmaWeb.WebPages.Admin.Admin" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+     <title>Pharma Dashboard</title>
+    <link href="../../css/style.css" type="text/css" rel="stylesheet" />
+
+    <link href="../../css/Control.css" type="text/css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+
+      <div id="wrapper">
+<div class="menu">
+<ul>
+ <li><a href="AdminUsersList.aspx">Users</a></li>
+  <li><a href="AdminMedicalStoresList.aspx">Medical Stores</a></li>
+   <li><a href="AdminOrdersList.aspx">Orders</a></li>
+  <li><a href="../Login.aspx">Log Out</a></li>
+</ul>
+</div>
+
+
+<div id="content">
+
+<asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+ </div>
+
+ <div class="ifooter">
+&copy; Copy Rights Reserved.
+</div>
+
+</div>
+
+
+
+    </form>
+</body>
+</html>
+
