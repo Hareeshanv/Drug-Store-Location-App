@@ -10,8 +10,6 @@ This project empowers it used to buy medicines through its app from neighborhood
 pharmacies
 
 
-HARDWARE REQUIREMENTS
 
-Processor       :      Intel Core 2 DUO or Higer
 
 
