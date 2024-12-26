@@ -12,4 +12,6 @@ pharmacies
 
 HARDWARE REQUIREMENTS
 
+Processor       :      Intel Core 2 DUO or Higer
+
 
